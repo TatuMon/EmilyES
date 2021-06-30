@@ -21,7 +21,7 @@ def activateCommand(words:list):
         if(words[1] == "abrir" or words[1] == "abrí" or words[1] == "abrime"):
             if(words[2] == "ópera" or words[2] == "opera"):
                 print("Abriendo OperaGX")
-                openOpera()
+                openOpera()    
             elif(words[2] == "Rainbow"):
                 print("Abriendo Rainbow Six Siege")
                 openRainbow()
