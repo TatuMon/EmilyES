@@ -22,7 +22,7 @@ Esta es la carpeta en la que se instala por defecto
 Ocurre lo mismo que con Opera. Debes modificar el código para que funcione
 
 
-Esto, obviamente, no va a quedar asi. Quiero que este bot sea lo más dinámica, cómoda y facil de usar posible, por lo que trataré de mejorarla siempre que pueda.
+Esto, obviamente, no va a quedar asi. Quiero que este bot sea lo más dinámico, cómodo y facil de usar posible, por lo que trataré de mejorarlo siempre que pueda.
 
 ### ¿Que necesito para que el código funcione?
 Python
