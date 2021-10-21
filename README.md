@@ -1,14 +1,13 @@
-# EMILY
+# EMI
 ## Emily es un bot que te permite abrir carpetas y aplicaciones usando tu voz.
 
-(Emily is only available in spanish at the moment)
+(Emi is only available in spanish at the moment)
 
-**Actualmente, Emily no funciona de una forma dinámica, por lo que tus programas necesitan estar en lugares específicos para que puedan ser abiertos por Emily.**
+**Actualmente, Emi no funciona de una forma dinámica, por lo que tus programas necesitan estar en lugares específicos para que puedan ser abiertos por Emi.**
 
 ### Las rutas deben ser:
 * Para OperaGX:
-`C:\Users\yoh1n\AppData\Local\Programs\Opera GX\launcher.exe`
-El usuario es muy específico, por lo que deberás cambiar el código para que funcione en tu computadora
+`C:\Users\<user>\AppData\Local\Programs\Opera GX\launcher.exe`
 
 * Para Rainbow Six Siege:
 No es necesario una ruta específica, pero si debes tenerlo en Steam y no en otra plataforma
@@ -18,15 +17,14 @@ No es necesario una ruta específica, pero si debes tenerlo en Steam y no en otr
 Esta es la carpeta en la que se instala por defecto
 
 * Para la carpeta de juegos:
-`C:/Users/yoh1n/Desktop/Juegos`
-Ocurre lo mismo que con Opera. Debes modificar el código para que funcione
+`C:/Users/<user>/Desktop/Juegos`
 
 
 Esto, obviamente, no va a quedar asi. Quiero que este bot sea lo más dinámico, cómodo y facil de usar posible, por lo que trataré de mejorarlo siempre que pueda.
 
 ### ¿Que necesito para que el código funcione?
 * Python:
-Obviamente, necesitas tener el lenguaje en tu computadora. Podes descargarlo desde [aca](https://www.python.org/downloads/)
+* Podes descargarlo desde [aca](https://www.python.org/downloads/)
 
 * PyAudio 0.2.11:
 Para que el programa pueda usar el microfono conectado a la computadora, debes tener instalado PyAudio, que lo podes conseguir usando este comando en cmd: `py -m pip install pyaudio`
