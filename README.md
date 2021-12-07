@@ -1,4 +1,4 @@
-# EMI
+# EmilyES
 ## Emi es un bot que te permite abrir carpetas y aplicaciones usando tu voz.
 
 (Emi is only available in spanish at the moment)
